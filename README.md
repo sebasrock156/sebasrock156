@@ -1,16 +1,14 @@
-## Hi there 👋
+[DelPanda Blog]: delpanda.blogspot.com
+## HELLO EVERYBODY 😁✌
 
-<!--
-**sebasrock156/sebasrock156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+Camilo Montaño (a.k.a sebasrock156) here!
 
-Here are some ideas to get you started:
+Software Developer (since 2007)
+Master of chambers of [DelPanda Blog] and former Android Dev for Cyanogenmod and Soluciones Tecnológicas Cali LTD.
+Knowed Languages: C/C++, Java, Python, Assembly, PHP, Basic, JavaScript, LUA, Kotlin, Objetive C.
+Knowed Frameworks: Android, .NET, iOS.
+Other ITs: MariaDB/SQL, Amazon Web Service, Bitbucket, Gitlab, Excel (yeah, rly, try to do a new formula 😂).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+   
