@@ -10,11 +10,13 @@ Master of chambers of [DelPanda Blog] and former Android Dev for Cyanogenmod(✞
 
 Former IT teacher on High School (*until 2022, 7 years*)
 
-Knowed Languages: C/C++, Java, Python, Assembly, PHP, Basic, JavaScript, LUA, Kotlin, Objetive C.
+**Spoken Languages**: Spanish (*native*), English (*C1*), Catalan (*C1*), Italian (*B1*), German (*A2*).
 
-Knowed Frameworks: Android, .NET, iOS.
+**Known Languages**: C/C++, Java, Python, Assembly, PHP, Basic, JavaScript, LUA, Kotlin, Objetive C.
 
-Other ITs: MariaDB/SQL, Amazon Web Service, Bitbucket, Gitlab, Excel (yeah, rly, try to do a new formula 😂).
+**Known Frameworks**: Android, .NET, iOS.
+
+**Other ITs**: MariaDB/SQL, Amazon Web Service, Bitbucket, Gitlab, Excel (yeah, rly, try to do a new formula 😂).
 
 ---
    
