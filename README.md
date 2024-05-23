@@ -1,4 +1,4 @@
-[DelPanda Blog]: delpanda.blogspot.com
+[DelPanda Blog]: https://delpanda.blogspot.com
 ## HELLO EVERYBODY 😁✌
 
 ---
