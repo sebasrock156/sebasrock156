@@ -8,7 +8,7 @@ Software Developer (*since 2007*)
 
 Master of chambers of [DelPanda Blog] and former Android Dev for Cyanogenmod(✞) and Soluciones Tecnológicas Cali LTD(✞).
 
-Former IT teacher on High School (*until 2022, 7 years*)
+Former IT teacher on I.E Ciudadela Mixta Colombia High School (*until 2022, 7 years*)
 
 **Spoken Languages**: Spanish (*native*), English (*fluent*), Catalan (*understandable*), Italian (*understandable*), German (*conversational*).
 
