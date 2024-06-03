@@ -6,9 +6,9 @@ Camilo Montaño (a.k.a sebasrock156) here!
 
 Software Developer (*since 2007*)
 
-Master of chambers of [DelPanda Blog] and former Android Dev for Cyanogenmod(✞) and Soluciones Tecnológicas Cali LTD(✞).
+Master of chambers of [DelPanda Blog] and former Android Developer for Cyanogenmod(✞) and Soluciones Tecnológicas Cali LTD(✞).
 
-Former IT teacher on I.E Ciudadela Mixta Colombia High School (*until 2022, 5 years*)
+Former IT teacher on I.E Ciudadela Mixta Colombia High School (*2017-2022, 5 years*)
 
 **Spoken Languages**: Spanish (*native*), English (*fluent*), Catalan (*understandable*), Italian (*understandable*), German (*conversational*).
 
